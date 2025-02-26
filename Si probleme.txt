@@ -1,0 +1,36 @@
+L'erreur que tu rencontres, ModuleNotFoundError: No module named 'requests', signifie que la bibliothèque requests n'est pas installée dans ton environnement Python. La bibliothèque requests est couramment utilisée pour envoyer des requêtes HTTP en Python.
+
+Pour résoudre ce problème, tu dois installer la bibliothèque requests. Voici comment faire :
+
+Étape 1 : Installer la bibliothèque requests
+Ouvre ton terminal ou invite de commandes et exécute la commande suivante :
+
+bash
+Copy
+pip install requests
+Si tu utilises Python 3, tu devras peut-être utiliser pip3 à la place :
+
+bash
+Copy
+pip3 install requests
+Étape 2 : Installer la bibliothèque pystyle (si nécessaire)
+Comme ton script importe également pystyle, tu devras peut-être l'installer aussi. Pour cela, exécute :
+
+bash
+Copy
+pip install pystyle
+ou
+
+bash
+Copy
+pip3 install pystyle
+Étape 3 : Vérifier l'installation
+Après avoir installé les bibliothèques, tu peux vérifier qu'elles sont correctement installées en exécutant :
+
+bash
+Copy
+pip show requests
+pip show pystyle
+Cela affichera des informations sur les packages installés, confirmant qu'ils sont prêts à être utilisés.
+
+Étape 4 : Relancer ton script
