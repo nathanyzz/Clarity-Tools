@@ -3,7 +3,7 @@
 
 Clarity is a multi tool for OSINT ip lookup web poage copier and more
 
-[!] Clarity ne vous demandera jamais vos informations personelles
+[!] Clarity ne vous demandera jamais vos informations personnelles
 
 [>] Join Official discord server > https://discord.gg/qFJ7dNZ5Sf
 
@@ -34,9 +34,9 @@ To deploy this project run
 ```
 
 ## Important
-Je ne suis pas tenu pour responsable des degats causé a la perssone que vous visez avec cet outils
+Je ne suis pas tenu pour responsable des dégâts causés à la personne que vous visez avec cet outil
 
-Clarity Tool n'est pas affilié a Clarity-Corp
+Clarity Tool n'est pas affilié à Clarity-Corp
 
 ## Copyright
 © "Clarity Tool" is a service and product provided by trademark HEXOFO™ 2024-2034. 
